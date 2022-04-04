@@ -23,29 +23,6 @@ demographic and clinical information from patients, combined with morphometric
 information of areas of the brain, are input variables useful to train an ANN of diagnosis of
 dementia with 83 % of reliability, and in this way, help to the early diagnosis of Dementia.
 
-✅Introduction:
-Dementia is a global health issue. Dementia is a state describing some group of symptoms which
-can occur when few groups of cells of brain stop working in an appropriate manner. Dementia
-normally occurs inside the particular regions of the brain that influences the way one can think,
-recall and convey. Dementia usually occurs due to Alzheimer’s disease. Dementia occurring
-before 65 years of age is said to be as early-onset dementia whereas after 65 years is said as lateonset dementia. 
-The World Alzheimer Report of the year 2015 shows the global number of
-people suffering from dementia are 46.8 million and an increase of 74.7 million is estimated by
-2030 and 131.5 million by 2050. The types of Dementia are Alzheimer’s Disease,
-Frontotemporal Dementia, Dementia with Lewy Bodies and Vascular Dementia. Alzheimer’s
-Disease is responsible for almost 75% of the overall cases. A state when both Alzheimer’s and
-Vascular Dementia occur simultaneously is called as Mixed Dementia. Although there are a
-number of medical areas to which Machine Learning ( ML ) systems have been applied,
-dementia has not been one of them. Yet dementia is a complex problem with correct diagnosis
-requiring historical data, physical exam, cognitive testing, laboratory studies and imaging.
-Although diagnostic accuracy using clinical NINCDS-ADRDA criteria for probable AD 1 is
-about 88% compared to post-mortem diagnosis, most demented patients are seen by community
-physicians who often do not detect dementia or misdiagnosis it. This problem is compounded by
-the average delay of 4 years between symptom onset and physician contact, which usually relates
-to the patient's social embarrassment about having a memory problem. At this point of the
-disease, physicians are less able to slow the progression and minimize debilitating behavioral
-changes of the dementia. A simple, method for detecting dementia early in the disease's course
-would help get patients to seek early evaluation and treatment.
  
  ✅Tools Used :
  Jupyter Notebook,
