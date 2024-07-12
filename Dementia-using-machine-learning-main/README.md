@@ -1,4 +1,4 @@
-# Dementia-ML
+# Machine Learning for Dementia
 Detection of Dementia using Machine Learning and Python 
 
 Introduction & Rationale: 
