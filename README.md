@@ -1,2 +1,3 @@
 # Dimentia-ML
-Prediction of Dementia using machine learning and python
+Prediction of Dementia using Machine Learning and Python
+
